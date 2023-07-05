@@ -1,0 +1,8 @@
+{
+    "extension": [
+        "ts"
+    ],
+    "spec": "test/**/*.ts",
+    "require": "esbuild-register",
+    "loader": "esbuild-register/loader"
+}
